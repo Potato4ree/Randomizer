@@ -1,0 +1,29 @@
+
+.random_title{
+	text-align: center;
+}
+
+.randomize_form{
+	width: 600px;
+	height: auto;
+	border: 2px solid grey;
+	margin: 30px auto;
+}
+
+.randomize_form div{
+	display: flex;
+}
+
+.randomize_form input[type=text], .randomize_form input[type=number]{
+	width: 50%;
+}
+
+.randomize_form input[type=submit]{
+	width: 100%;
+}
+
+.result{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 26px;
+}
