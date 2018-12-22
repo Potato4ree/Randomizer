@@ -1,0 +1,2 @@
+# Randomizer
+Random variety counter
